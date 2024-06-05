@@ -42,6 +42,7 @@ Combined RFM scores to segment customers into distinct groups.
 Created interactive dashboards in Power BI to visualize customer segments and key metrics.
 Identified actionable insights for enhancing customer retention and optimizing marketing efforts.
 Provided strategic recommendations based on the analysis to drive business growth and improve customer satisfaction.
+![image](https://github.com/BeautyOgaranya23/Sales_data_Analysis/assets/170759416/fd27c825-b8fd-4d75-91ad-fc63950d8d8e)
 
 ##Conclusion
 This analysis identified key customer segments through RFM analysis, providing a clear understanding of their behaviors. 
